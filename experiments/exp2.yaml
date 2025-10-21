@@ -1,0 +1,6 @@
+population: 40
+generations: 100
+selection: "roulette"     # usa RWS (roulette wheel selection)
+crossover_prob: 0.8
+mutation_prob: 0.1
+random_seed: 22

@@ -1,0 +1,21 @@
+groups: ["Pecho","Espalda","Piernas","Descanso","Hombros","Brazos","Cardio"]
+
+availability_minutes:
+  mon: 60
+  tue: 60
+  wed: 60
+  thu: 60
+  fri: 60
+  sat: 45
+  sun: 0
+
+preferences:
+  require_cardio_per_week: 1
+  legs_priority_bonus: 0.05
+  diversity_target_unique_groups: [4,5]
+
+fitness_weights:
+  diversity: 0.40
+  rest_spacing: 0.30
+  availability: 0.20
+  user_prefs: 0.10

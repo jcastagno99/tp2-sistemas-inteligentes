@@ -1,0 +1,9 @@
+best_fitness: 0.9999999999999999
+schedule:
+  mon: Pecho
+  tue: Cardio
+  wed: Brazos
+  thu: Piernas
+  fri: Brazos
+  sat: Hombros
+  sun: Descanso

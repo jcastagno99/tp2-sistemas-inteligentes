@@ -1,0 +1,7 @@
+population: 120
+generations: 250
+selection: "tournament"
+tournament_k: 3
+crossover_prob: 0.9
+mutation_prob: 0.15
+random_seed: 33

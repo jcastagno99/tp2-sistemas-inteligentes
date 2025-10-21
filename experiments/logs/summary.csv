@@ -1,0 +1,6 @@
+exp,best_fitness,diversity,rest_ok_ratio,cardio_count,has_legs,sunday_rest
+exp1,1.000000,5,1.0000,1,yes,yes
+exp2,1.000000,4,1.0000,1,no,yes
+exp3,1.000000,5,1.0000,1,yes,yes
+exp4,1.000000,4,1.0000,1,yes,yes
+exp5,1.000000,4,1.0000,1,no,yes
